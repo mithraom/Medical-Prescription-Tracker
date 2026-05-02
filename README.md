@@ -1,10 +1,10 @@
 # 💊 Medical Prescription Tracker
  
-A console-based **Medical Prescription Tracker** built in **C**, using **Linked Lists** to dynamically store and manage patient medication data. Developed as a 2nd Semester CAT Project for the Data Structures and Algorithms Laboratory (22MDC26) at **Coimbatore Institute of Technology**.
+A console-based **Medical Prescription Tracker** built in **C**, using **Linked Lists** to dynamically store and manage patient medication data. Developed using Simple Data Structures and Algorithms.
  
 ---
  
-## 📌 About the Project
+##  About the Project
  
 Managing multiple prescriptions and medication schedules can be challenging — especially for patients on long-term treatment or multiple medications. This project provides a simple, structured, terminal-based system to organize and monitor a patient's medication records efficiently.
  
@@ -15,7 +15,7 @@ Each medicine is stored as a node in a singly linked list, containing:
 - Time of Intake (Morning / Afternoon / Night)
 ---
  
-## ✨ Features
+##  Features
  
 | Feature | Description |
 |---|---|
@@ -31,7 +31,7 @@ Each medicine is stored as a node in a singly linked list, containing:
  
 ---
  
-## 🛠️ Tech Stack
+##  Tech Stack
  
 - **Language:** C
 - **Data Structure:** Singly Linked List
@@ -39,7 +39,7 @@ Each medicine is stored as a node in a singly linked list, containing:
 - **Standard Libraries:** `stdio.h`, `stdlib.h`, `string.h`, `time.h`
 ---
  
-## 📊 Algorithm Complexity
+##  Algorithm Complexity
  
 ### Searching
 | Algorithm | Best Case | Worst Case | Time Complexity |
@@ -55,7 +55,7 @@ Each medicine is stored as a node in a singly linked list, containing:
  
 ---
  
-## 🚀 How to Run
+##  How to Run
  
 ### Prerequisites
 - A C compiler (GCC recommended)
@@ -105,7 +105,7 @@ Prescription added successfully!
  
 ---
  
-## 🔮 Future Enhancements
+##  Future Enhancements
  
 - 🔐 User Authentication (Login / Signup)
 - 🔔 Medication Reminder Notifications
@@ -116,7 +116,7 @@ Prescription added successfully!
 - 🌳 Advanced Data Structures (Trees, Hash Maps) for better performance
 ---
  
-## 📁 Project Structure
+##  Project Structure
  
 ```
 medical-prescription-tracker/
